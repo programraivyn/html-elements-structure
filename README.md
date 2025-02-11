@@ -1,10 +1,10 @@
 # Pathway 2
 Week 2: Advanced HTML/CSS
 ## Day 1 Objectives
-- [] Understand HTML elements and document structure.
-- [] Learn about the PRE tag and its usage.
-- [] Review the box model.
-- [] Compare browser built-in styles with custom styles.
+- [x] Understand HTML elements and document structure.
+- [x] Learn about the PRE tag and its usage.
+- [x] Review the box model.
+- [x] Compare browser built-in styles with custom styles.
 
 ### Day 1 Assignment
 * Part 1: HTML Elements and Structure
