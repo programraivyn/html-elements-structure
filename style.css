@@ -1,0 +1,49 @@
+nav {
+    text-align: center;
+    border-style: double;
+    border-color: plum;
+    border-width: 5px;
+    margin: 25px 25px 55px;
+
+}
+
+body {
+    background-color: lilac;
+}
+
+h1 {
+    color: purple;
+    font-style: oblique;
+}
+
+h2 {
+    color: darkmagenta;
+    text-shadow: 1px 2px #045050;
+}
+
+.oneofNone {
+    background-color: azure;
+    color: plum;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: fit-content;
+    height: auto;
+    padding: 15px 30px 30px;
+    border: dotted 5px plum;
+}
+
+pre {
+    color: purple;
+    font-style: italic;
+    text-shadow: 1px 0px #045050;
+}
+
+.quoteMe {
+    color: #045890;
+}
+
+footer {
+    font-size: 5px;
+    text-align: center;
+    font-weight: bold;
+    color: darkmagenta;
+}
